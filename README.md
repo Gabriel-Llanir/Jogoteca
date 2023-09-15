@@ -11,3 +11,11 @@ $ # no terminal digite
 $ git clone https://github.com/Gabriel-Llanir/Jogoteca
 
 ```
+
+# Como definir as dependências da aplicação
+
+``` bash
+$ # no terminal digite
+$ .\\venv\Scripts\activate
+
+```
